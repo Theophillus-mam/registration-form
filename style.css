@@ -1,0 +1,58 @@
+hr{
+    width: 20%;
+}
+.regis{
+    background-color: beige;
+}
+.surname{
+    margin-top: 4px;
+}
+.phone{
+    margin-top: 4px;
+}
+.email{
+    margin-top: 4px;
+}
+.gen{
+    display: flex;
+    justify-content: center;
+     
+}
+.street name{
+    margin-top: 4px;
+}
+.street# {
+    margin-top: 4px;
+}
+.area name{
+    margin-top: 4px;
+}
+.area code{
+    margin-top: 5px;
+}
+.nam{
+    display: flex;
+    justify-content: space-around;
+    
+}
+#p{
+    text-align: center;
+    background-color: aqua;
+}
+.phon{
+    display: flex;
+    justify-content:space-around
+}
+.add{
+    display: flex;
+}
+select{
+    justify-content: center;
+}
+.button{
+    background-color: blueviolet;
+    width: 99px;
+    height: 25px;
+    color: aqua;
+    
+}
