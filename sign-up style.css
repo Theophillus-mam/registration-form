@@ -1,0 +1,43 @@
+body{
+    background-image: url(https://images.pexels.com/photos/1906658/pexels-photo-1906658.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+}
+.sign-up{
+    width: 380px;
+    height: 400px;
+    position: relative;
+    background: transparent ;
+    backdrop-filter: blur(150px);
+    padding: 5px;
+    text-align: center;
+    margin-left: 30%;
+    justify-content: space-around;
+}
+.inputs{
+    display: flex;
+    justify-content: center;
+}
+.inputs-2{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.inputs-3{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+svg{
+    color: gray;
+}
+.check{
+    margin-top: 10px;
+}
+.button{
+    margin-top: 40px;
+}
+#s{
+    width: 75px;
+    height: 30px;
+    background-color: blue;
+    color: white;
+}
