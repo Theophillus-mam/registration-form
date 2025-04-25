@@ -1,6 +1,6 @@
 body{
-    background-image: url(https://images.pexels.com/photos/5627427/pexels-photo-5627427.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load);
-   }
+    background-color: beige;
+}
 .inputs-2{
     display: flex;
     justify-content: center;
@@ -21,16 +21,24 @@ svg{
     color: gray;
 }
 .login{
-    width: 380px;
-    height: 150px;
+    width: 500px;
+    height: 600px;
     position: relative;
-    background: whitesmoke;
+    background: transparent;
+    backdrop-filter: blur(150px);
     padding: 5px;
     text-align: center;
-    margin-left: 30%;
+    margin-left: 38%;
     justify-content: space-around;
+    margin-top: 300px;
 }
 h1{
     text-align: center;
-    color: white;
+    
+}
+input{
+    border-radius: 30px;
+    height: 40px;
+    width: 300px;
+
 }
